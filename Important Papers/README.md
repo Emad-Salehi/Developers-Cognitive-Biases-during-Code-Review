@@ -1,0 +1,3 @@
+- Interesting papers regarding different sampling techniques and sampling size in empirical software engineering or in general. 
+- I have chosen some sampling procedures (SRS + Two-Staged Stratified Sampling) from them in my implementation.
+- catolino 2019 used for different categories of anchoring bias analysis.
